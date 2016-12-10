@@ -8,3 +8,7 @@ Enfin, il sera conçu par défaut pour un usage mobile, avec la technique dite d
 Fichiers à fournir :
 - Code HTML avec les images nécessaires
 - URL du site en ligne http://portiha.tk
+
+2ème étape
+Mise en forme de la page HTML
+
